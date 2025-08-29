@@ -1,0 +1,23 @@
+Software Engineer
+
+Responsibilities of our Software Engineer:
+
+    Build and maintain high-quality, scalable web applications using C#, JavaScript, web development frameworks and libraries (e.g. React, Next.js, Blazor), and Azure services.
+    Design intuitive front-end experiences and robust back-end logic with seamless client-server integration.
+    Implement new features using frameworks, APIs, and databases.
+    Ensure software quality with unit, integration, and automated testing.
+    Collaborate in Agile environments (Scrum, Kanban) - participating in standups, sprint planning, and retros.
+    Troubleshoot, debug, and resolve application issues.
+    Engage in code reviews to maintain standards, knowledge sharing, and continuous learning.
+    Drive improvements across the SDLC: tools, pipelines, architecture, and documentation.
+
+What you’ll Bring:
+
+    A minimum of 5 years’ experience of C#
+    Strong knowledge of JavaScript, HTML/CSS, and modern frameworks (React, Blazor, Next.js).
+    Experience working knowledge of Azure cloud services and SQL databases.
+    A solid grasp of CI/CD pipelines and automated testing frameworks.
+    Comfort with Agile methodologies (Scrum or Kanban) and working in fast-moving teams.
+    Effective communicator who can translate complex technical ideas to both devs and stakeholders.
+    Bonus points for experience with IT service management tools like ServiceNow.
+    Ability to pass BPSS and other clearances.

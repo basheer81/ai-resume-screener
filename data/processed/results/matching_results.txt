@@ -1,0 +1,36 @@
+
+Skills in job1.txt: {'javascript', 'css', 'html'}
+Top 5 matches for job1.txt:
+Resume: 10641230_processed.txt, Matched skills: {'javascript', 'css', 'html'}, Score: 100.00%
+Resume: 12763627_processed.txt, Matched skills: {'javascript', 'css', 'html'}, Score: 100.00%
+Resume: 16186411_processed.txt, Matched skills: {'javascript', 'css', 'html'}, Score: 100.00%
+Resume: 20674668_processed.txt, Matched skills: {'javascript', 'css', 'html'}, Score: 100.00%
+Resume: 26746496_processed.txt, Matched skills: {'javascript', 'css', 'html'}, Score: 100.00%
+Total resumes processed for job1.txt: 120
+
+Skills in job2.txt: {'python', 'c', 'java', 'react', 'javascript'}
+Top 5 matches for job2.txt:
+Resume: 12635195_processed.txt, Matched skills: {'javascript', 'python', 'java', 'c'}, Score: 80.00%
+Resume: 20674668_processed.txt, Matched skills: {'javascript', 'python', 'java', 'c'}, Score: 80.00%
+Resume: 10265057_processed.txt, Matched skills: {'python', 'java', 'c'}, Score: 60.00%
+Resume: 16186411_processed.txt, Matched skills: {'c', 'java', 'javascript'}, Score: 60.00%
+Resume: 26746496_processed.txt, Matched skills: {'c', 'java', 'javascript'}, Score: 60.00%
+Total resumes processed for job2.txt: 120
+
+Skills in job3.txt: {'c', 'react', 'sql', 'javascript', 'web development'}
+Top 5 matches for job3.txt:
+Resume: 16186411_processed.txt, Matched skills: {'c', 'sql', 'javascript', 'web development'}, Score: 80.00%
+Resume: 20674668_processed.txt, Matched skills: {'c', 'sql', 'javascript', 'web development'}, Score: 80.00%
+Resume: 12635195_processed.txt, Matched skills: {'c', 'javascript', 'web development'}, Score: 60.00%
+Resume: 12763627_processed.txt, Matched skills: {'c', 'sql', 'javascript'}, Score: 60.00%
+Resume: 26746496_processed.txt, Matched skills: {'c', 'sql', 'javascript'}, Score: 60.00%
+Total resumes processed for job3.txt: 120
+
+Skills in job4.txt: {'python', 'c', 'java', 'react', 'javascript'}
+Top 5 matches for job4.txt:
+Resume: 12635195_processed.txt, Matched skills: {'javascript', 'python', 'java', 'c'}, Score: 80.00%
+Resume: 20674668_processed.txt, Matched skills: {'javascript', 'python', 'java', 'c'}, Score: 80.00%
+Resume: 10265057_processed.txt, Matched skills: {'python', 'java', 'c'}, Score: 60.00%
+Resume: 16186411_processed.txt, Matched skills: {'c', 'java', 'javascript'}, Score: 60.00%
+Resume: 26746496_processed.txt, Matched skills: {'c', 'java', 'javascript'}, Score: 60.00%
+Total resumes processed for job4.txt: 120
