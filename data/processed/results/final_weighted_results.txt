@@ -1,0 +1,36 @@
+
+Skills in job4.txt: {'c', 'javascript', 'css', 'react', 'python', 'sql', 'php', 'java', 'html'}, Total weight: 2.00
+Top 5 matches for job4.txt:
+Resume: 37242217_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'php', 'java'}, Experience: 18 years, Education: None (score: 0), Certifications: ['None'] (score: 0), Score: 67.12%
+Resume: 90867631_processed.txt, Matched skills: {'sql', 'c', 'html'}, Experience: 22 years, Education: Master's (score: 8), Certifications: ['Azure Certified'] (score: 5), Score: 57.00%
+Resume: 28126340_processed.txt, Matched skills: {'javascript', 'css', 'sql', 'php', 'html'}, Experience: 9 years, Education: Bachelor's (score: 5), Certifications: ['None'] (score: 0), Score: 56.75%
+Resume: 29975124_processed.txt, Matched skills: {'c', 'html', 'php', 'sql'}, Experience: 20 years, Education: None (score: 0), Certifications: ['ITIL Certified'] (score: 5), Score: 54.50%
+Resume: 33381211_processed.txt, Matched skills: {'c', 'sql'}, Experience: 34 years, Education: Master's (score: 8), Certifications: ['None'] (score: 0), Score: 51.75%
+Total resumes processed for job4.txt: 120
+
+Skills in job2.txt: {'c', 'javascript', 'css', 'react', 'python', 'sql', 'java', 'html'}, Total weight: 1.80
+Top 5 matches for job2.txt:
+Resume: 37242217_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'java'}, Experience: 18 years, Education: None (score: 0), Certifications: ['None'] (score: 0), Score: 65.14%
+Resume: 90867631_processed.txt, Matched skills: {'sql', 'c', 'html'}, Experience: 22 years, Education: Master's (score: 8), Certifications: ['Azure Certified'] (score: 5), Score: 58.83%
+Resume: 16186411_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'java', 'html'}, Experience: 2 years, Education: Master's (score: 8), Certifications: ['Scrum Master'] (score: 5), Score: 54.69%
+Resume: 26746496_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'java', 'html'}, Experience: 2 years, Education: Master's (score: 8), Certifications: ['Scrum Master'] (score: 5), Score: 54.69%
+Resume: 28126340_processed.txt, Matched skills: {'sql', 'javascript', 'css', 'html'}, Experience: 9 years, Education: Bachelor's (score: 5), Certifications: ['None'] (score: 0), Score: 53.39%
+Total resumes processed for job2.txt: 120
+
+Skills in job1.txt: {'html', 'javascript', 'css', 'machine learning', 'database management'}, Total weight: 1.05
+Top 5 matches for job1.txt:
+Resume: 28126340_processed.txt, Matched skills: {'database management', 'javascript', 'css', 'html'}, Experience: 9 years, Education: Bachelor's (score: 5), Certifications: ['None'] (score: 0), Score: 68.67%
+Resume: 26801767_processed.txt, Matched skills: {'database management'}, Experience: 30 years, Education: PhD (score: 10), Certifications: ['Azure Certified'] (score: 5), Score: 55.60%
+Resume: 37242217_processed.txt, Matched skills: {'javascript', 'css'}, Experience: 18 years, Education: None (score: 0), Certifications: ['None'] (score: 0), Score: 48.33%
+Resume: 46260230_processed.txt, Matched skills: {'database management'}, Experience: 10 years, Education: Diploma/Associate (score: 3), Certifications: ['None'] (score: 0), Score: 46.10%
+Resume: 90867631_processed.txt, Matched skills: {'html'}, Experience: 22 years, Education: Master's (score: 8), Certifications: ['Azure Certified'] (score: 5), Score: 45.74%
+Total resumes processed for job1.txt: 120
+
+Skills in job3.txt: {'c', 'javascript', 'react', 'web development', 'sql'}, Total weight: 1.20
+Top 5 matches for job3.txt:
+Resume: 37242217_processed.txt, Matched skills: {'c', 'javascript', 'sql'}, Experience: 18 years, Education: None (score: 0), Certifications: ['None'] (score: 0), Score: 64.38%
+Resume: 14789139_processed.txt, Matched skills: {'sql', 'web development'}, Experience: 25 years, Education: Master's (score: 8), Certifications: ['PMP', 'ITIL Certified'] (score: 10), Score: 63.62%
+Resume: 90867631_processed.txt, Matched skills: {'sql', 'c'}, Experience: 22 years, Education: Master's (score: 8), Certifications: ['Azure Certified'] (score: 5), Score: 63.42%
+Resume: 36434348_processed.txt, Matched skills: {'c', 'web development', 'sql'}, Experience: 10 years, Education: None (score: 0), Certifications: ['None'] (score: 0), Score: 62.08%
+Resume: 33381211_processed.txt, Matched skills: {'c', 'sql'}, Experience: 34 years, Education: Master's (score: 8), Certifications: ['None'] (score: 0), Score: 60.92%
+Total resumes processed for job3.txt: 120
