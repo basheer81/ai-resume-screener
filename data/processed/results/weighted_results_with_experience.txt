@@ -1,0 +1,36 @@
+
+Skills in job4.txt: {'c', 'javascript', 'css', 'react', 'python', 'sql', 'php', 'java', 'html'}, Total weight: 2.00
+Top 5 matches for job4.txt:
+Resume: 37242217_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'php', 'java'}, Experience: 18 years, Score: 77.25%
+Resume: 20674668_processed.txt, Matched skills: {'c', 'javascript', 'css', 'python', 'sql', 'php', 'java', 'html'}, Experience: 0 years, Score: 61.25%
+Resume: 83816738_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'php', 'java', 'html'}, Experience: 3 years, Score: 59.75%
+Resume: 28126340_processed.txt, Matched skills: {'javascript', 'css', 'sql', 'php', 'html'}, Experience: 9 years, Score: 58.50%
+Resume: 29975124_processed.txt, Matched skills: {'c', 'html', 'php', 'sql'}, Experience: 20 years, Score: 58.00%
+Total resumes processed for job4.txt: 120
+
+Skills in job2.txt: {'c', 'javascript', 'css', 'react', 'python', 'sql', 'java', 'html'}, Total weight: 1.80
+Top 5 matches for job2.txt:
+Resume: 37242217_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'java'}, Experience: 18 years, Score: 74.72%
+Resume: 20674668_processed.txt, Matched skills: {'c', 'javascript', 'css', 'python', 'sql', 'java', 'html'}, Experience: 0 years, Score: 60.28%
+Resume: 83816738_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'java', 'html'}, Experience: 3 years, Score: 57.61%
+Resume: 16186411_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'java', 'html'}, Experience: 2 years, Score: 54.61%
+Resume: 26746496_processed.txt, Matched skills: {'c', 'javascript', 'css', 'sql', 'java', 'html'}, Experience: 2 years, Score: 54.61%
+Total resumes processed for job2.txt: 120
+
+Skills in job1.txt: {'html', 'javascript', 'css', 'machine learning', 'database management'}, Total weight: 1.05
+Top 5 matches for job1.txt:
+Resume: 28126340_processed.txt, Matched skills: {'database management', 'javascript', 'css', 'html'}, Experience: 9 years, Score: 73.67%
+Resume: 37242217_processed.txt, Matched skills: {'javascript', 'css'}, Experience: 18 years, Score: 53.33%
+Resume: 26801767_processed.txt, Matched skills: {'database management'}, Experience: 30 years, Score: 46.67%
+Resume: 46260230_processed.txt, Matched skills: {'database management'}, Experience: 10 years, Score: 46.67%
+Resume: 10641230_processed.txt, Matched skills: {'javascript', 'css', 'html'}, Experience: 4 years, Score: 42.00%
+Total resumes processed for job1.txt: 120
+
+Skills in job3.txt: {'c', 'javascript', 'react', 'web development', 'sql'}, Total weight: 1.20
+Top 5 matches for job3.txt:
+Resume: 37242217_processed.txt, Matched skills: {'c', 'javascript', 'sql'}, Experience: 18 years, Score: 73.75%
+Resume: 36434348_processed.txt, Matched skills: {'c', 'web development', 'sql'}, Experience: 10 years, Score: 70.83%
+Resume: 16186411_processed.txt, Matched skills: {'c', 'javascript', 'web development', 'sql'}, Experience: 2 years, Score: 61.42%
+Resume: 29975124_processed.txt, Matched skills: {'c', 'sql'}, Experience: 20 years, Score: 59.17%
+Resume: 33381211_processed.txt, Matched skills: {'c', 'sql'}, Experience: 34 years, Score: 59.17%
+Total resumes processed for job3.txt: 120
